@@ -1,0 +1,223 @@
+.tituloSolicitud{
+	font-size:35px;
+	text-align:center;
+}
+.labelNumeroSolicitud{
+	position:relative;
+	left:850px;
+	bottom:1px;
+}
+.numeroSolicitud{
+	display:inline-block;
+	position:relative;
+	left:990px;
+	bottom:40px;
+	width:50px;
+}
+.labelUnidad{
+	position:relative;
+}
+
+.inputBienServicio{
+	width:50%;
+	position:relative;
+}
+.formulario{
+	position:relative;
+	left:40px;
+	width:100px;
+
+}
+.fecha{
+	display:inline-block;
+	position:relative;
+	left:900px;
+	bottom:50px;
+	width:160px;
+}
+.unidad{
+	display:inline-block;
+	width:700px;
+	position:relative;
+	left:400px;
+	bottom:40px;
+}
+
+.labelFecha{
+	position:relative;
+	left:850px;
+	bottom:10px;
+}
+
+.nombreBien{
+	display:inline-block;
+	width:700px;
+	position:relative;
+	left:400px;
+	bottom:40px;
+}
+
+.labelBien{
+	position:relative;
+}
+
+.tabla{
+	position:relative;
+	left:390px;
+}
+.columna1{
+	width:400px;
+}
+.columna2{
+	width:100px;
+}
+.columna3{
+	width:100px;
+}
+.columna4{
+	width:260px;
+}
+
+.labelDescripcionBienServicio{
+	position:relative;
+	top:70px;
+}
+.justificacion{
+	display:inline-block;
+	width:700px;
+	position:relative;
+	left:400px;
+	bottom:40px;
+}
+.observaciones{
+	display:inline-block;
+	width:700px;
+	position:relative;
+	left:400px;
+	bottom:40px;
+}
+.fechaAprox{
+	display:inline-block;
+	width:170px;
+	position:relative;
+	left:400px;
+	bottom:40px;
+}	
+.mostrarFecha{
+	font-size:20px;
+}
+
+.mostrarUnidad{
+	font-size:20px;
+}
+.mostrarNombreBienServicio{
+	font-size:20px;
+}
+.mostrarDescripcionBienServicio{
+	font-size:20px;
+}
+.mostrarJustificacion{
+	font-size:20px;
+}
+.casillaJustificacion{
+    border-radius: 10px; 
+	border: 5px double #000;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+	overflow: scroll;
+	behavior: url(path/to/pie_files/PIE.htc);
+}
+.casillaObservaciones{
+    border-radius: 10px; 
+	border: 5px double #000;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	overflow: scroll;
+	behavior: url(path/to/pie_files/PIE.htc);
+}
+.mostrarObservaciones{
+	font-size:20px;
+}
+.mostrarFechaAprox{
+	font-size:20px;
+}
+
+.mostrarTabla{
+	padding-left:100px;
+	position:relative;
+	bottom:90px;
+}
+.tablaSolicitudes{
+	align:center;
+}
+.tablaAgregar{
+	position:relative;
+	left:220px;
+}
+.botonPerfil{
+	padding-left:100px;
+}
+
+.tablaMostrar{
+	position:relative;
+	left:240px;
+	bottom:40px;
+}
+.mostrarJustificacion{
+	position:relative;
+	bottom:20px;
+}
+
+.buscarSolicitud{
+	width:90px;
+
+}
+.formatoBuscar{
+	padding-left:600px;
+}
+.selectTipo{
+	position:relative;
+	left:15px;
+	width:20%;
+}
+.botonVolverVerSolicitud{
+	position:relative;
+	left:90px;
+}
+perfilAutorizador{
+	position:relative;
+	left:400px;
+}
+perfilSolicitante{
+	position:relative;
+	left:400px;
+}
+perfilAdministrador{
+	position:relative;
+	left:400px;
+}
+
+.textObs{
+	position:relative;
+	top:40px;
+	right:50px;
+	bottom:40px;
+}
+.mostrarObs{
+	position:relative;
+	left:90px;
+	bottom:30px;
+	font-size:20px;
+}
+.tabla{
+	position:relative;
+	left:20px;
+}
+.enlace{
+	display:inline-block;
+	width:700px;
+	position:relative;
+	left:400px;
+	bottom:40px;
+}
